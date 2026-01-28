@@ -3,7 +3,7 @@
 Earthrhythms includes sound explorations inspired by natural cycles.
 
 ## Tidal Sonification
-<audio controls src="/audio/Five-Decades-In-September.wav"></audio>
+<audio controls src="/audio/Five-Decades-In-September.mp3"></audio>
 
 ## Lunar Cycle Sonification
 <audio controls src="/audio/lunar.mp3"></audio>
