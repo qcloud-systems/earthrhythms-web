@@ -9,7 +9,20 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/react": "^19.2.10",
+    "@types/react-dom": "^19.2.3",
+    "@types/react-router-dom": "^5.3.3",
     "typescript": "~5.9.3",
     "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "build": "^0.1.4",
+    "npm": "^11.8.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-markdown": "^10.1.0",
+    "react-router-dom": "^7.13.0",
+    "run": "^1.5.0"
   }
 }
