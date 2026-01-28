@@ -135,7 +135,7 @@ From percussion to planetary motion, rhythm is a way of understanding change ove
 Earthrhythms includes sound explorations inspired by natural cycles.\r
 \r
 ## Tidal Sonification\r
-<audio controls src="/audio/tides.mp3"></audio>\r
+<audio controls src="/audio/Five-Decades-In-September.wav"></audio>\r
 \r
 ## Lunar Cycle Sonification\r
 <audio controls src="/audio/lunar.mp3"></audio>\r
