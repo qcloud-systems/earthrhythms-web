@@ -206,21 +206,9 @@ Contributions are welcome. To contribute:
 MIT License (or your preferred license)
 
 ---
-
-If you want, I can also generate:
-
-- a `CONTRIBUTING.md`  
-- a `docs/` folder with starter screenshots  
-- a project logo  
-- a version with emojis removed for a more formal tone  
-
-Just tell me what you want next.
-
+Notes:
 npm install react react-dom react-router-dom react-markdown
 npm install -D typescript @types/react @types/react-dom @types/react-router-dom
 
-
 npm install vite-plugin-raw
 npm install @vitejs/plugin-react
-
-
